@@ -14,7 +14,7 @@ using namespace std;
 void Problemas(Cronometro& cro_1){
   float resposta = 0.0;
   double parcial;
-  cout << "Problema 1:" << endl;
+  cout << "Problema 01:" << endl;
   while(resposta != (2+2)){
     cout << "2 + 2 = ";
     cin >> resposta;
